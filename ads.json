@@ -18,6 +18,11 @@
        "app_uri": "https://github.com/ItzNotABug/HouseAds",
        "app_adType": "interstitial"
      },
+           {
+       "app_interstitial_url": "https://raw.githubusercontent.com/ad-tes/test/master/gta.png",
+       "app_uri": "https://github.com/ItzNotABug/HouseAds",
+       "app_adType": "interstitial"
+     },
       
      {
      "app_title": "App Name 3 (Native Ad)",
